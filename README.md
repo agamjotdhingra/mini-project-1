@@ -2,6 +2,8 @@
 
 AI Mini Project (Semester 2). A supervised machine learning **classification** model that predicts whether a loan application should be **Approved** or **Rejected**.
 
+Repository: https://github.com/agamjotdhingra/mini-project-1.git
+
 ## Results (test set)
 | Model | Accuracy | Precision | Recall | F1 | 5-fold CV |
 |---|---|---|---|---|---|
